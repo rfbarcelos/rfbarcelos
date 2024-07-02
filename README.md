@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Rafael Barcelos 👋
 
-## Student at [Trybe](https://betrybe.com) 🏆
+## Former Student at [Trybe](https://betrybe.com) 🏆
 
 - _Full Stack Software Engineer_ 
 - _"You can find the things you lost, but never the ones you abandoned."_
