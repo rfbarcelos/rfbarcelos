@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Former Student at [Trybe](https://betrybe.com) 🏆
 
-- _Full Stack Software Engineer_ 
+- _Full Stack Software Developer_ 
 - _"You can find the things you lost, but never the ones you abandoned."_
 
 
