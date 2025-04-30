@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 - _"You can find the things you lost, but never the ones you abandoned."_
 
 
-## GitHub Stats
-
-<div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rfbarcelos&count_private=true&show_icons=true&theme=outrun&include_all_commits=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfbarcelos&theme=outrun&layout=compact"/>
-</div>
-
 ## Skills/Stacks:
 
 <div align='center'> 
