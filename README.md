@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Former Student at [Trybe](https://betrybe.com) 🏆
 
 - _Full Stack Software Developer_ 
-- _"You can find the things you lost, but never the ones you abandoned."_
+- _"A clever person solves a problem. A wise person avoids it."_
 
 
 ## Skills/Stacks:
